@@ -3,7 +3,7 @@
     padding: 0;
     margin: 0;
 }
-
+ 
 body {
     background-color: #d9dcd6;
 }
@@ -59,6 +59,8 @@ p {
     background-position: center;
 }
 
+/* Updated box above to an ID rather than a class */
+
 .float-left {
     float: left;
     margin-right: 25px;
@@ -81,43 +83,56 @@ p {
     clear: both;
     float: right;
     width: 20%;
-    height: 110%;
+    height: 115%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
     position: absolute;
     left: 1130px;
     top: 920px;
 }
+/* In the box above, I had to manually postion the benefits box */
 
 #benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
 }
+ 
+/* Updated box above to an ID rather than a class */
 
 #benefit-brand {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
+/* Updated box above to an ID rather than a class */
+
 #benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
 }
+
+/* Updated box above to an ID rather than a class */
 
 #benefit-lead h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
+/* Updated box above to an ID rather than a class */
+
 #benefit-brand h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
+/* Updated box above to an ID rather than a class */
+
 #benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
 }
+
+/* Updated box above to an ID rather than a class */
 
 #benefit-lead img {
     display: inline;
@@ -126,17 +141,23 @@ p {
     display: inline;
 }
 
+/* Updated box above to an ID rather than a class */
+
 #benefit-brand img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
+/* Updated box above to an ID rather than a class */
+
 #benefit-cost img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
+
+/* Updated box above to an ID rather than a class */
 
 #search-engine-optimization {
     margin-bottom: 20px;
@@ -147,6 +168,8 @@ p {
     color: #ffffff;
 }
 
+/* Updated box above to an ID rather than a class */
+
 #online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
@@ -155,6 +178,8 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
+
+/* Updated box above to an ID rather than a class */
 
 #social-media-marketing {
     margin-bottom: 20px;
@@ -165,32 +190,46 @@ p {
     color: #ffffff;
 }
 
+/* Updated box above to an ID rather than a class */
+
 #search-engine-optimization img {
     max-height: 200px;
 }
+
+/* Updated box above to an ID rather than a class */
 
 #online-reputation-management img {
     max-height: 200px;
 }
 
+/* Updated box above to an ID rather than a class */
+
 #social-media-marketing img {
     max-height: 200px;
 }
+
+/* Updated box above to an ID rather than a class */
 
 #search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
+/* Updated box above to an ID rather than a class */
+
 #online-reputation-management h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
+/* Updated box above to an ID rather than a class */
+
 #social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+/* Updated box above to an ID rather than a class */
 
 .footer {
     padding: 30px;
